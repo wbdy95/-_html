@@ -4,7 +4,7 @@
 	<meta charset="UTF-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>test 海贼王~~~~~ by wbdy	</title><!--<embed src="music/海贼王 - Mv(梦有形心相伴).mp3" width="0" height="0"></embed> -->
+	<title>海贼王</title><!--<embed src="music/海贼王 - Mv(梦有形心相伴).mp3" width="0" height="0"></embed> -->
 	
 	<meta name="description" content="A photography-inspired website layout with an expanding stack slider and a background image tilt effect" />
 	<meta name="keywords" content="photography, template, layout, effect, expand, image stack, animation, flickity, tilt" />
@@ -25,11 +25,9 @@
 
 <div class="container">
 		<div class="hero">
-			<div class="hero__back hero__back--static" style=' text-align:center' > <video width="1105" height="700" controls="controls" autoplay="autoplay"> <source  src="img/bg.mp4"  name=" " > </source > </video> </div>
-			<!--<div class="hero__back hero__back--static" style=' text-align:center' > <source  src="img/bg.mp4" width="1105" height="700" name="海贼王" > </source >  </div> -->
-			<!--<div class="hero__back hero__back--mover" style=' text-align:center'> <source  src="img/bg.mp4" width="1105" height="700" name="海贼王" > </source >  </div> -->
-			<div class="hero__back hero__back--mover" style=' text-align:center'> <video width="1105" height="700" controls="controls" autoplay="autoplay"> <source  src="img/bg.mp4"  name=" " > </source > </video> </div>
-			<div class="hero__front"> </div>
+			<div class="hero__back hero__back--static" style=' text-align:center' > <embed src="img/bg.mp4" width="1105" height="700" name="海贼王" > </embed></div>
+			<div class="hero__back hero__back--mover" style=' text-align:center'> <embed src="img/bg.mp4" width="1105" height="700" name="海贼王" > </embed>  </div>
+			<div class="hero__front">海贼王</div>
 			
 		</div>
 		<header class="codrops-header">
@@ -823,4 +821,3 @@
 	<script src="js/main.js"></script>
 </body>
 </html>
-<!-- 仅供娱乐 by wbdy -->
